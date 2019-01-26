@@ -1,5 +1,5 @@
 //API link Store
-var link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson"
+var link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"
 
 function markerSize(mag) {
   return mag * 30000;
