@@ -1,4 +1,4 @@
-## https://jcmedinag.github.io/Leaflet-Project
+## https://jcmedinag.github.io/Leaflet.js-Project
 
 ## Visualization showing all earthquakes from the past 7 days
 
